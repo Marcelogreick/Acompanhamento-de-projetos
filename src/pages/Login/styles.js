@@ -6,8 +6,8 @@ export default StyleSheet.create({
     container: {
         flex: 1,
         flexDirection: "column",
+        backgroundColor: '#fff',
         paddingTop: Constants.statusBarHeight + 1,
-        backgroundColor: '#18486e'
     },
 
     icon: {
@@ -15,5 +15,20 @@ export default StyleSheet.create({
         resizeMode: "cover",
         justifyContent: "center",
     },
+
+    input: {
+        marginTop: 300,
+        flexDirection: 'column',
+    },
+
+    inputText: {
+        height: 40, 
+        borderColor: '#000', 
+        borderWidth: 1,
+        borderRadius: 10,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        maxWidth: 300
+    }
 
 })
