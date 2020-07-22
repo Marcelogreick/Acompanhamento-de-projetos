@@ -45,28 +45,6 @@ export default function Detail() {
                 foi admitido na prestigiosa Universidade Harvard, conseguindo 
                 1590 SATs dos 1600 possíveis mas abandonou os cursos de 
                 Matemática e Direito no terceiro ano,para dedicar-se à Microsoft.
-
-                Gates nasceu em uma família de classe média de Seattle. 
-                Seu pai, William H. Gates, era advogado de grandes empresas, 
-                e sua mãe, Mary Maxwell Gates, foi professora da Universidade 
-                de Washington e diretora de bancos. Bill Gates e as suas duas 
-                irmãs, Kristanne e Libby, frequentaram as melhores escolas 
-                particulares de sua cidade natal, e Bill também participou do 
-                Movimento Escoteiro ainda quando jovem. Bill Gates, 
-                foi admitido na prestigiosa Universidade Harvard, conseguindo 
-                1590 SATs dos 1600 possíveis mas abandonou os cursos de 
-                Matemática e Direito no terceiro ano,para dedicar-se à Microsoft.
-
-                Gates nasceu em uma família de classe média de Seattle. 
-                Seu pai, William H. Gates, era advogado de grandes empresas, 
-                e sua mãe, Mary Maxwell Gates, foi professora da Universidade 
-                de Washington e diretora de bancos. Bill Gates e as suas duas 
-                irmãs, Kristanne e Libby, frequentaram as melhores escolas 
-                particulares de sua cidade natal, e Bill também participou do 
-                Movimento Escoteiro ainda quando jovem. Bill Gates, 
-                foi admitido na prestigiosa Universidade Harvard, conseguindo 
-                1590 SATs dos 1600 possíveis mas abandonou os cursos de 
-                Matemática e Direito no terceiro ano,para dedicar-se à Microsoft.
                 </Text>
                 </ScrollView>
             </View>

@@ -18,7 +18,7 @@ export default StyleSheet.create({
 
     input: {
         marginTop: 300,
-        flexDirection: 'column',
+        alignItems: 'center',
     },
 
     inputText: {
@@ -27,8 +27,37 @@ export default StyleSheet.create({
         borderWidth: 1,
         borderRadius: 10,
         backgroundColor: '#fff',
+        width: 300,
+        marginBottom: 10,
+        paddingLeft: 12,
+        fontSize: 18,
+        fontFamily: 'Roboto'
+    },
+
+    buttonLogin: {
+        height: 40,
+        width: 300,
+        backgroundColor: '#18486e',
         alignItems: 'center',
-        maxWidth: 300
-    }
+        justifyContent: 'center',
+        borderRadius: 10,
+        borderColor: '#000',
+        borderWidth: 1,
+        fontSize: 18,
+        fontFamily: 'Roboto'        
+    },
+
+    textbutton: {
+        color: 'white', 
+        fontSize: 18, 
+        fontFamily: 'Roboto'
+    },
+
+    info: {
+        color: '#000',
+        fontSize: 15,
+        fontWeight: 'bold',
+        paddingTop: 10
+    },
 
 })
